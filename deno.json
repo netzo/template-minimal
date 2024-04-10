@@ -27,7 +27,7 @@
   },
   "imports": {
     "@/": "./",
-    "netzo/": "https://deno.land/x/netzo@0.4.97/",
+    "netzo/": "https://deno.land/x/netzo@0.5.0/",
     "$fresh/": "https://deno.land/x/fresh@1.6.8/",
     "preact": "https://esm.sh/preact@10.20.0",
     "preact/": "https://esm.sh/preact@10.20.0/",
